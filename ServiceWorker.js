@@ -1,9 +1,9 @@
 const cacheName = "FPS-Slide Car Out-1.0";
 const contentToCache = [
     "Build/Slide Car Out.loader.js",
-    "Build/Slide Car Out.framework.js.gz",
-    "Build/Slide Car Out.data.gz",
-    "Build/Slide Car Out.wasm.gz",
+    "Build/Slide Car Out.framework.js",
+    "Build/Slide Car Out.data",
+    "Build/Slide Car Out.wasm",
     "TemplateData/style.css"
 
 ];
